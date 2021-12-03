@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Clase
+comment1.params=nombreDeClase\ numeroDeAsientos
+comment1.target=Clase(java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getnombreClase()
+comment3.params=nombreDeLaClase
+comment3.target=void\ setnombreClase(java.lang.String)
+comment4.params=
+comment4.target=int\ getnumeroAsientos()
+comment5.params=nuevosAsientos
+comment5.target=void\ setasientosNuevosA\u00F1adidos(int)
+comment6.params=
+comment6.target=boolean\ getestarOcupada()
+comment7.params=
+comment7.target=void\ setestarOcupada()
+comment8.params=
+comment8.target=void\ imprimirDetalles()
+comment9.params=
+comment9.target=java.lang.String\ devolverTodo()
+numComments=10
